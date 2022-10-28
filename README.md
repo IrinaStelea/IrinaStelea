@@ -2,7 +2,7 @@
 ### I'm Irina, a Berlin-based full stack web developer with a background in graphic design, photography & digital marketing. 
 
 - 🔭 Looking for my first job as web developer
-- 🦉 Working on **Loa**, a birdwatching app
+- 🎮 Working on a collab online **Connect4** in Vue & Typescript
 - 🌱 Learning **Typescript & Testing**
 - ❄️ Fun fact: I once dug myself out of 2-meter snow to leave the house
 
