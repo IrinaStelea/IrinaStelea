@@ -3,7 +3,7 @@
 
 - 🟢 Available for hire
 - 🎮 Currently collaborating on an online **Connect4** in Vue & Typescript
-- 🌱 Learning **Typescript & Testing**
+- 🌱 Learning **Testing**
 - ❄️ Fun fact: I once dug myself out of 2-meter snow to leave the house
 
 ## Tech stack:
