@@ -2,7 +2,7 @@
 ### I'm Irina, a Berlin-based full stack web developer with a background in graphic design, photography & digital marketing. 
 
 - 🟢 Available for hire
-- 🎮 Currently collaborating on an online **Connect4** in Vue & Typescript
+- 👩‍💻 Currently collaborating on a **travel destination finder** in React, Next.js, Bulma & Typescript
 - 🌱 Learning **Testing**
 - ❄️ Fun fact: I once dug myself out of 2-meter snow to leave the house
 
