@@ -31,6 +31,8 @@
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Socket.io-404D59?style=for-the-badge&logo=socket&logoColor=white" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Mapbox-43853D?style=for-the-badge&logo=mapbox&logoColor=white" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/AWS-CA4245?style=for-the-badge&logo=amazon&logoColor=white" />
+<br/>
+<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ### Currently learning:
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Testing-CA4245?style=for-the-badge&logo=jest&logoColor=white" />
