@@ -3,7 +3,7 @@
 
 - 🟢 Available for hire
 - 👩‍💻 Currently collaborating on a **travel destination finder** in React, Next.js, Bulma & Typescript
-- 🌱 Learning **Testing**
+- 🌱 Learning **Testing** & **Next.js**
 - ❄️ Fun fact: I once dug myself out of 2-meter snow to leave the house
 
 ## Tech stack:
@@ -36,6 +36,7 @@
 
 ### Currently learning:
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Testing-CA4245?style=for-the-badge&logo=jest&logoColor=white" />
+ <a href="#"  target="_blank"><img src="https://img.shields.io/badge/Next.js-0070BB?style=for-the-badge&logoColor=white" /> <a/>
 
 ### Other:
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /></a>
