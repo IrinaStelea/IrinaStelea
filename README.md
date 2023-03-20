@@ -1,8 +1,7 @@
 ## Hello there! 
-### I'm Irina, a Berlin-based full stack web developer with a background in graphic design, photography & digital marketing. 
+### I'm Irina, a Berlin-based software developer. 
 
-- 🟢 Available for hire
-- 👩‍💻 Currently collaborating on a **travel destination finder** in Typescript, React and Next.js
+- 👩‍💻 Freetime project: collaborating on a **travel destination finder** in Typescript, React and Next.js
 - 🌱 Learning **Testing** & **Next.js**
 - ❄️ Fun fact: I once dug myself out of 2-meter snow to leave the house
 
